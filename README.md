@@ -15,5 +15,5 @@ Notes
 
 Tested on:
 
-* Ubuntu lucid
+* Ubuntu lucid (does not exist there)
 * Ubuntu precise

@@ -1,7 +1,7 @@
 packages = Array.new
 
 case node[:lsb][:codename]
-when "lucid", "precise"
+when "precise"
   packages |= %w/
     libclass-isa-perl
   /
